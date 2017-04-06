@@ -1,0 +1,7 @@
+#Thu Apr 06 14:59:53 IST 2017
+base.0=C\:\\Users\\rathi\\Documents\\testing2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_54d65c0807fee128266251ca2e51dc351b89c47d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\rathi\\Documents\\testing2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a7488bef3f1b654bddae5d4c37287cfac738e6e1\\classes.dex
+base.1=C\:\\Users\\rathi\\Documents\\testing2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a7488bef3f1b654bddae5d4c37287cfac738e6e1
+file.0=C\:\\Users\\rathi\\Documents\\testing2-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_54d65c0807fee128266251ca2e51dc351b89c47d\\classes.dex
